@@ -1,4 +1,5 @@
 com.minhhop.auth
 com.minhhop.cache
 com.minhhop.crm
+com.minhhop.exception
 crm.persistent
